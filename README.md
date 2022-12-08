@@ -20,7 +20,7 @@
 
 # 📖 My-portfolio-project: <a name="about-project"></a>
 
-> The so called My portfolio project is created using pure Html5 and Css3. In this project I have added I have added header and main section.
+> The so called My portfolio project is created using pure Html5 and Css3. In this project I have added projects and  about me section from figma template two.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
