@@ -7,7 +7,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #3C3A39;
+  background: #3c3a39;
   margin: 0;
   padding-top: 20px;
   height: 48px;
@@ -41,7 +41,7 @@
 }
 
 .introduction {
-  background: #1C1A19;
+  background: #1c1a19;
   padding: 120px 24px;
   gap: 12px;
   background-image: url(img/Groupback.svg);
