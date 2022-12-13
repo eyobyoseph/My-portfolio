@@ -1,5 +1,5 @@
 #contact-text {
-  font-family: 'Inter' sans-serif;
+  font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
@@ -45,7 +45,7 @@ form button {
   height: 48px;
   background: #ff6b00;
   border: none;
-  font-family: 'Inter' sans-serif;
+  font-family: 'Inter', sans-serif;
   font-weight: 700;
   font-size: 17px;
   line-height: 24px;
