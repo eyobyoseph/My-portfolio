@@ -1,5 +1,5 @@
 #contact-text {
-  font-family: 'Inter';
+  font-family: 'Inter' sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
@@ -43,9 +43,9 @@ textarea {
 form button {
   padding: 12px;
   height: 48px;
-  background: #ff6B00;
+  background: #ff6b00;
   border: none;
-  font-family: 'Inter';
+  font-family: 'Inter' sans-serif;
   font-weight: 700;
   font-size: 17px;
   line-height: 24px;
@@ -54,7 +54,7 @@ form button {
   transition: 0.3s;
 }
 
-form button:Hover {
+form button:hover {
   color: #f55800;
   background-color: #fff5e1;
   border: 1px solid #f55800;
