@@ -54,16 +54,16 @@
 }
 
 .getme:hover {
-  background: #FFF5E1;
-  border: 1px solid #F55800;
+  background: #fff5e1;
+  border: 1px solid #f55800;
 }
 
 .getme-link:hover {
-  color: #F55800;
+  color: #f55800;
 }
 
 .getme:active {
-  background: #E05304;
+  background: #e05304;
   color: white;
 }
 

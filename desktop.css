@@ -1,11 +1,9 @@
 @media screen and (max-width: 768px) {
   .introduction {
-   background-image: url(img/Groupback.svg);
-  }
-  .about-section {
-
+    background-image: url(img/Groupback.svg);
   }
 }
+
 @media (min-width: 1108px) {
   * {
     box-sizing: border-box;
@@ -54,6 +52,7 @@
     padding: 0;
     height: 100vh;
     gap: 89px;
+
     /* background-color: red; */
   }
 
@@ -70,15 +69,20 @@
 
   .introduction-main {
     order: 2;
+
     /* max-width: 566px; */
     max-width: 50%;
+
     /* height: calc(100% - 59px); */
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
+
     /* padding: 15px; */
+
     /* gap: 24px; */
+
     /* margin-bottom: 59px; */
   }
 

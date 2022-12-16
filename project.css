@@ -156,16 +156,16 @@
 }
 
 .see-first-proj:hover {
-  background: #FFF5E1;
-  border: 1px solid #F55800;
+  background: #fff5e1;
+  border: 1px solid #f55800;
 }
 
 .see-first-proj-link:hover {
-  color: #F55800;
+  color: #f55800;
 }
 
 .see-first-proj:active {
-  background: #E05304;
+  background: #e05304;
 }
 
 .see-first-proj-link:active {
@@ -176,12 +176,10 @@
   display: grid;
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
   align-items: center;
-
   padding: 120px 0;
 
   /* gap: 80px; */
 }
-
 
 .card {
   margin: 24px;
@@ -288,18 +286,18 @@
 }
 
 .see-project:hover {
-  background: #FFF5E1;
-  border: 1px solid #F55800;
+  background: #fff5e1;
+  border: 1px solid #f55800;
 }
 
 .see-project-link:hover {
-  color: #F55800;
+  color: #f55800;
 }
 
 .see-project:active {
-  background: #E05304;
+  background: #e05304;
 }
 
-.see-project-link:active { 
+.see-project-link:active {
   color: white;
 }
