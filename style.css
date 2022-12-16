@@ -3,14 +3,21 @@
   padding: 0;
 }
 
+body {
+  padding-top: 48px;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
   align-items: center;
   background: #3c3a39;
   margin: 0;
-  padding-top: 20px;
   height: 48px;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
 }
 
 .name {
@@ -38,6 +45,10 @@
   width: 24px;
   height: 24px;
   margin: 8px;
+}
+
+.desktop-menu-right {
+  display: none;
 }
 
 .introduction {
@@ -82,7 +93,6 @@
 .social-media-links {
   display: flex;
   align-items: center;
-  width: 200px;
   justify-content: space-between;
   padding: 0;
 }

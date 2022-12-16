@@ -15,7 +15,6 @@
 }
 
 .about-h1 {
-  /* width: 327px; */
   height: 79px;
   font-family: 'Crete Round', serif;
   font-style: normal;
@@ -27,7 +26,6 @@
 }
 
 .about-intro {
-  /* width: 327px; */
   height: 148px;
   font-family: 'Inter', sans-serif;
   font-style: normal;
@@ -42,7 +40,6 @@
   flex-direction: row;
   align-items: center;
   padding: 12px;
-  gap: 10px;
   background: #ff6b00;
 }
 
@@ -53,16 +50,30 @@
   font-weight: 700;
   font-size: 17px;
   line-height: 24px;
-  display: flex;
-  align-items: center;
-  text-align: center;
-  letter-spacing: 0.03em;
   color: #fff;
+}
+
+.getme:hover {
+  background: #fff5e1;
+  border: 1px solid #f55800;
+}
+
+.getme-link:hover {
+  color: #f55800;
+}
+
+.getme:active {
+  background: #e05304;
+  color: white;
 }
 
 .divider {
   display: flex;
   justify-content: center;
+}
+
+.abt-desk-divider {
+  display: none;
 }
 
 ul {
