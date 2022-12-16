@@ -155,14 +155,33 @@
   color: white;
 }
 
+.see-first-proj:hover {
+  background: #FFF5E1;
+  border: 1px solid #F55800;
+}
+
+.see-first-proj-link:hover {
+  color: #F55800;
+}
+
+.see-first-proj:active {
+  background: #E05304;
+}
+
+.see-first-proj-link:active {
+  color: white;
+}
+
 .grid {
   display: grid;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
   align-items: center;
-  grid-template-rows: repeat(6, 1fr);
+
   padding: 120px 0;
 
   /* gap: 80px; */
 }
+
 
 .card {
   margin: 24px;
@@ -266,4 +285,21 @@
   letter-spacing: 0.03em;
   color: white;
   text-decoration: none;
+}
+
+.see-project:hover {
+  background: #FFF5E1;
+  border: 1px solid #F55800;
+}
+
+.see-project-link:hover {
+  color: #F55800;
+}
+
+.see-project:active {
+  background: #E05304;
+}
+
+.see-project-link:active { 
+  color: white;
 }

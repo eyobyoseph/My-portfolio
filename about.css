@@ -53,6 +53,20 @@
   color: #fff;
 }
 
+.getme:hover {
+  background: #FFF5E1;
+  border: 1px solid #F55800;
+}
+
+.getme-link:hover {
+  color: #F55800;
+}
+
+.getme:active {
+  background: #E05304;
+  color: white;
+}
+
 .divider {
   display: flex;
   justify-content: center;
