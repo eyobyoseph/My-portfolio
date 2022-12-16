@@ -1,5 +1,5 @@
 .about-section {
-  background: #1C1A19;
+  background: #1c1a19;
 }
 
 .about-me {
@@ -22,7 +22,7 @@
   font-size: 72px;
   line-height: 88px;
   letter-spacing: 0.37px;
-  color: #FF6B00;
+  color: #ff6b00;
 }
 
 .about-intro {
@@ -32,7 +32,7 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: #F4F5F7;
+  color: #f4f5f7;
 }
 
 .getme {
@@ -40,7 +40,7 @@
   flex-direction: row;
   align-items: center;
   padding: 12px;
-  background: #FF6B00;
+  background: #ff6b00;
 }
 
 .getme-link {
@@ -50,7 +50,7 @@
   font-weight: 700;
   font-size: 17px;
   line-height: 24px;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 .divider {
@@ -91,8 +91,8 @@ ul {
 }
 
 .lang-flex > img {
-  margin: 0px 12px;
-  height: 28px; 
+  margin: 0 12px;
+  height: 28px;
 }
 
 .lang-flex > h2,
@@ -103,7 +103,7 @@ ul {
   font-weight: 700;
   font-size: 32px;
   line-height: 44px;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 .lists {
@@ -115,7 +115,7 @@ ul {
   font-weight: 400;
   font-size: 22px;
   line-height: 43px;
-  color: #FFFFFF;
+  color: #fff;
   gap: 20px;
   margin-left: 30px;
 }
@@ -131,11 +131,11 @@ ul {
 .frame-flex > img {
   width: 18px;
   height: 18px;
-  margin: 0px 25px 0px 12px; 
+  margin: 0 25px 0 12px;
 }
 
 .skill-flex > img {
   width: 18px;
   height: 18px;
-  margin: 0px 12px;
+  margin: 0 12px;
 }

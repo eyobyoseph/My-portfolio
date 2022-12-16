@@ -2,6 +2,7 @@
   * {
     box-sizing: border-box;
   }
+
   body {
     padding-top: 72px;
   }
@@ -41,7 +42,7 @@
     flex-direction: row;
     align-items: center;
     background-image: url(img/Illustration-header.svg);
-    padding: 0px;
+    padding: 0;
     height: 100vh;
     gap: 89px;
   }
@@ -73,7 +74,7 @@
     font-size: 72px;
     line-height: 82px;
     width: 80%;
-    color: #F55800;
+    color: #f55800;
   }
 
   .profession {
@@ -87,7 +88,7 @@
     font-family: 'Inter', sans-serif;
     font-size: 20px;
     line-height: 32px;
-    color: #F4F5F7;
+    color: #f4f5f7;
   }
 
   /* Project section */
@@ -101,7 +102,7 @@
 
   .recent {
     max-width: 40%;
-    color: #091E42;
+    color: #091e42;
     padding-left: 35px;
   }
 
@@ -122,7 +123,7 @@
     margin-right: 143px;
     max-height: 448px;
     padding: 0;
-    margin-bottom: 24px;  
+    margin-bottom: 24px;
   }
 
   .first-img-container {
@@ -162,8 +163,8 @@
     grid-template-rows: repeat(2, 1fr);
     gap: 24px;
     max-width: 1155px;
-    margin: 0px 141px;
-    padding: 0px 0px 130px 0px;
+    margin: 0 141px;
+    padding: 0 0 130px 0;
   }
 
   .card {
@@ -187,8 +188,8 @@
     margin-left: 142px;
     height: 582px;
   }
-  
-  .about-me { 
+
+  .about-me {
     background-image: none;
     padding: 0;
     height: auto;
@@ -196,7 +197,7 @@
 
   .about-h1 {
     line-height: 82px;
-    color: #F55800;
+    color: #f55800;
   }
 
   .about-intro {
@@ -205,7 +206,7 @@
   }
 
   .getme {
-    background: #F55800;
+    background: #f55800;
   }
 
   .abt-desk-divider {
@@ -220,7 +221,7 @@
     flex-direction: row;
     justify-content: space-between;
     padding-top: 130px;
-    margin: 0px 142px;
+    margin: 0 142px;
     padding-left: 0;
   }
 
@@ -253,12 +254,13 @@
   }
 
   #contact-text {
-     width: 35%;
-     text-align: left;
+    width: 35%;
+    text-align: left;
   }
 
   form {
     width: 55%;
+
     /* align-items: flex-start; */
   }
 
