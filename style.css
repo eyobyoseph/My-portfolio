@@ -3,14 +3,21 @@
   padding: 0;
 }
 
+body {
+  padding-top: 48px;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #3c3a39;
+  background: #3C3A39;
   margin: 0;
-  padding-top: 20px;
   height: 48px;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
 }
 
 .name {
@@ -40,8 +47,12 @@
   margin: 8px;
 }
 
+.desktop-menu-right {
+  display: none;
+}
+
 .introduction {
-  background: #1c1a19;
+  background: #1C1A19;
   padding: 120px 24px;
   gap: 12px;
   background-image: url(img/Groupback.svg);
@@ -82,7 +93,6 @@
 .social-media-links {
   display: flex;
   align-items: center;
-  width: 200px;
   justify-content: space-between;
   padding: 0;
 }

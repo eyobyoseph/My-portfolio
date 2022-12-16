@@ -1,5 +1,5 @@
 .about-section {
-  background: #1c1a19;
+  background: #1C1A19;
 }
 
 .about-me {
@@ -15,7 +15,6 @@
 }
 
 .about-h1 {
-  /* width: 327px; */
   height: 79px;
   font-family: 'Crete Round', serif;
   font-style: normal;
@@ -23,18 +22,17 @@
   font-size: 72px;
   line-height: 88px;
   letter-spacing: 0.37px;
-  color: #ff6b00;
+  color: #FF6B00;
 }
 
 .about-intro {
-  /* width: 327px; */
   height: 148px;
   font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: #f4f5f7;
+  color: #F4F5F7;
 }
 
 .getme {
@@ -42,8 +40,7 @@
   flex-direction: row;
   align-items: center;
   padding: 12px;
-  gap: 10px;
-  background: #ff6b00;
+  background: #FF6B00;
 }
 
 .getme-link {
@@ -53,16 +50,16 @@
   font-weight: 700;
   font-size: 17px;
   line-height: 24px;
-  display: flex;
-  align-items: center;
-  text-align: center;
-  letter-spacing: 0.03em;
-  color: #fff;
+  color: #FFFFFF;
 }
 
 .divider {
   display: flex;
   justify-content: center;
+}
+
+.abt-desk-divider {
+  display: none;
 }
 
 ul {
@@ -94,8 +91,8 @@ ul {
 }
 
 .lang-flex > img {
-  margin: 0 12px;
-  height: 28px;
+  margin: 0px 12px;
+  height: 28px; 
 }
 
 .lang-flex > h2,
@@ -106,7 +103,7 @@ ul {
   font-weight: 700;
   font-size: 32px;
   line-height: 44px;
-  color: #fff;
+  color: #FFFFFF;
 }
 
 .lists {
@@ -118,7 +115,7 @@ ul {
   font-weight: 400;
   font-size: 22px;
   line-height: 43px;
-  color: #fff;
+  color: #FFFFFF;
   gap: 20px;
   margin-left: 30px;
 }
@@ -134,11 +131,11 @@ ul {
 .frame-flex > img {
   width: 18px;
   height: 18px;
-  margin: 0 25px 0 12px;
+  margin: 0px 25px 0px 12px; 
 }
 
 .skill-flex > img {
   width: 18px;
   height: 18px;
-  margin: 0 12px;
+  margin: 0px 12px;
 }
