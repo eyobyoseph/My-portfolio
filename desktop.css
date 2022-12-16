@@ -15,7 +15,7 @@
   }
 
   .name-eyob {
-    font-family: 'Inter';
+    font-family: 'Inter', sans-serif;
     font-size: 20px;
   }
 
@@ -31,7 +31,7 @@
 
   .desk-nav {
     text-decoration: none;
-    font-family: 'Inter';
+    font-family: 'Inter', sans-serif;
     font-weight: 600;
     font-size: 15px;
     color: white;
@@ -77,14 +77,14 @@
   }
 
   .profession {
-    font-family: 'Inter';
+    font-family: 'Inter', sans-serif;
     font-weight: 500;
     font-size: 32px;
     line-height: 44px;
   }
 
   .description {
-    font-family: 'Inter';
+    font-family: 'Inter', sans-serif;
     font-size: 20px;
     line-height: 32px;
     color: #F4F5F7;
