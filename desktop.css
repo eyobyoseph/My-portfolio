@@ -149,6 +149,11 @@
   .first-img {
     max-height: 448px;
     object-fit: cover;
+    transition: transform 1s linear 0.15s;
+  }
+
+  .first-img:hover {
+    transform: scale(1.2);
   }
 
   .first-project-desc {
@@ -172,6 +177,22 @@
 
   .programming {
     margin: 0;
+  }
+
+  .see-first-project {
+    transition: all 1s ease 0.15s;
+  }
+
+  .see-first-project-link {
+    transition: all 1s ease 0.15s;
+  }
+
+  .see-project {
+    transition: all 1s ease 0.15s;
+  }
+
+  .see-project-link {
+    transition: all 1s ease 0.15s;
   }
 
   .grid {
@@ -224,6 +245,11 @@
 
   .getme {
     background: #f55800;
+    transition: all 1s ease 0.15s;
+  }
+
+  .getme-link {
+    transition: all 1s ease 0.15s;
   }
 
   .abt-desk-divider {
@@ -279,6 +305,10 @@
     width: 55%;
 
     /* align-items: flex-start; */
+  }
+
+  form button {
+    transition: all 2s ease 0.15s;
   }
 
   form center {
