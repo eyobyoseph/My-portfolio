@@ -30,10 +30,18 @@
     display: none;
   }
 
+  .click-menu {
+    display: block;
+  }
+
   .desktop-menu-right {
     display: flex;
     margin-right: 142px;
     gap: 20px;
+  }
+
+  .close-button {
+    display: none;
   }
 
   .desk-nav {
@@ -61,6 +69,10 @@
     flex-direction: column;
     margin-left: 36px;
     height: 180px;
+  }
+
+  .mobile-menu {
+    display: none;
   }
 
   .link-img {
